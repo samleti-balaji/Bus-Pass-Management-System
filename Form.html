@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/Form.css">
+    
+</head>
+
+<body>
+    
+    <div class="site-blocks-cover"
+        style="background-image: url(images/formbg.jpeg); height: 950px; width: 98.9vw;  padding-left: 6px;"
+        data-aos="fade" data-stellar-background-ratio="0.5">
+        <a class="navbar-brand" href="BusPass.html"><img src="images/logo.png" alt="calligraphy-fonts" border="0"
+                style="width: 70px; padding-left: 7px; padding-top: 10px;"></a>
+
+        <div class="container" style="height: 765px; margin-top: 50px;">
+            <div class="row justify-align-center align-items-center">
+                <div class="col">
+                    <div class="header">
+                        <h2 style="text-shadow: 1px 1px 2px #ffffffe3;">REGISTER</h2>
+                    </div>
+                    <form class="form" id="form">
+                        <div class="form-control">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" placeholder="Enter Your Name">
+                            <i class="fa fa-check-circle"></i>
+                            <i class="fa fa-exclamation-circle"></i>
+                            <small></small>
+                        </div>
+
+                        <div class="form-control">
+                            <label for="email">Email</label>
+                            <input type="text" id="email" placeholder="Enter Your Email">
+                            <i class="fa fa-check-circle"></i>
+                            <i class="fa fa-exclamation-circle"></i>
+                            <small></small>
+                        </div>
+
+                        <div class="form-control">
+                            <label for="password">Password</label>
+                            <input type="password" id="password" placeholder="Choose Password">
+                            <i class="fa fa-check-circle"></i>
+                            <i class="fa fa-exclamation-circle"></i>
+                            <small></small>
+                        </div>
+
+                        <div class="form-control">
+                            <label for="mob">Mobile Number</label>
+                            <input type="text" id="mob" placeholder="Enter Mobile Number">
+                            <i class="fa fa-check-circle"></i>
+                            <i class="fa fa-exclamation-circle"></i>
+                            <small>Error msg</small>
+                        </div>
+
+                        <div class="form-control">
+                            <label for="expdate">Validity</label>
+                            <select id="expdate" name="expdate"
+                                style="display: block; width: 100%; padding: 10px; border-radius: 5px; outline: none; border: 2px solid #f0f0f0;">
+                                <option value="Select Months" disabled selected>Select Months</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                            </select>
+                            <i class="fa fa-check-circle"></i>
+                            <i class="fa fa-exclamation-circle"></i>
+                            <small>Error msg</small>
+                        </div>
+
+                        <div class="form-control">
+                            <label for="destination">Destination</label>
+                            <select id="destination" name="destination"
+                                style="display: block; width: 100%; padding: 10px; border-radius: 5px; outline: none; border: 2px solid #f0f0f0;">
+                                <option value="Choose Your Destination" disabled selected>Choose
+                                    Your Destination
+                                </option>
+                                <option value="Akkalkot">Akkalkot</option>
+                                <option value="Tuljapur">Tuljapur</option>
+                                <option value="Pandharpur">Pandharpur</option>
+                                <option value="Naldurga">Naldurga</option>
+                                <option value="Gangapur">Gangapur</option>
+                                <option value="Railway Station">Railway Station</option>
+                            </select>
+                            <i class="fa fa-check-circle"></i>
+                            <i class="fa fa-exclamation-circle"></i>
+                            <small>Error msg</small>
+                        </div>
+                        <div class="button">
+                            <button type="submit" id="submit"
+                                style="color: white; text-decoration: none; padding: auto; text-align: center;">Proceed</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.min.js"></script>
+    <script src="js/Form.js"></script>
+
+</body>
+
+</html>

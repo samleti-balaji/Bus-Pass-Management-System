@@ -1,5 +1,6 @@
-# Bus-Pass-Management-System
-This is my Final Year Major Project - Bus Pass Management System is developed using HTML, CSS and Javascript as Front-end technologies.
+Bus Pass Management System
+
+Welcome to the Bus Pass Management System! This project represents the culmination of my final year studies, aiming to streamline the process of issuing and managing bus passes efficiently. Built using HTML, CSS, and JavaScript, this system provides a user-friendly interface for both administrators and passengers.
 
 Do check out project - https://samleti-balaji.github.io/Bus-Pass-Management-System/BusPass.html
 

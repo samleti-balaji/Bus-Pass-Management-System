@@ -5,6 +5,8 @@ Welcome to the Bus Pass Management System! This project represents the culminati
 Do check out project - https://samleti-balaji.github.io/Bus-Pass-Management-System/BusPass.html
 
 
+The dashboard provides an overview of key metrics and functionalities for managing bus passes effectively.
+
 ![Uploading Screenshot (19).png…]()
 
 

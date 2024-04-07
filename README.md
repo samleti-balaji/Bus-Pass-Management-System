@@ -12,10 +12,10 @@ The dashboard provides an overview of key metrics and functionalities for managi
 
 
 
-Meet our dedicated team! This screenshot showcases the three team members who collaborated on developing this project, demonstrating our commitment to teamwork and innovation.
-
 
 ![Screenshot (18)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/1c802686-c26b-4537-a4ca-c049bb388389)
+
+Meet our dedicated team! This screenshot showcases the three team members who collaborated on developing this project, demonstrating our commitment to teamwork and innovation.
 
 
 ![Screenshot (20)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/861e63d6-a02d-40ee-8576-3b945fdaee3a)

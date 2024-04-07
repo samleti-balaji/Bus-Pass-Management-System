@@ -8,6 +8,10 @@ This is my Final Year Major Project - Bus Pass Management System is developed us
 ![Screenshot (18)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/1c802686-c26b-4537-a4ca-c049bb388389)
 
 
+![Screenshot (20)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/861e63d6-a02d-40ee-8576-3b945fdaee3a)
+
+
+
 ![Screenshot (17)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/43deec78-c3cd-45a2-94ce-1202236080ff)
 
 
@@ -23,4 +27,3 @@ This is my Final Year Major Project - Bus Pass Management System is developed us
 ![Screenshot (21)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/b58613b8-0e6b-494e-9089-1bc8c8528f69)
 
 
-![Screenshot (20)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/861e63d6-a02d-40ee-8576-3b945fdaee3a)

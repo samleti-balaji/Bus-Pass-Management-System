@@ -10,9 +10,6 @@ The dashboard provides an overview of key metrics and functionalities for managi
 ![Uploading Screenshot (19).png…]()
 
 
-
-
-
 ![Screenshot (18)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/1c802686-c26b-4537-a4ca-c049bb388389)
 
 Meet our dedicated team! This screenshot showcases the three team members who collaborated on developing this project, demonstrating our commitment to teamwork and innovation.
@@ -20,6 +17,8 @@ Meet our dedicated team! This screenshot showcases the three team members who co
 
 ![Screenshot (20)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/861e63d6-a02d-40ee-8576-3b945fdaee3a)
 
+
+The home page serves as the central hub of the system, providing essential information about the Bus Pass Management System and its functionalities.
 
 
 ![Screenshot (17)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/43deec78-c3cd-45a2-94ce-1202236080ff)

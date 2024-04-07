@@ -24,15 +24,23 @@ The home page serves as the central hub of the system, providing essential infor
 ![Screenshot (17)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/43deec78-c3cd-45a2-94ce-1202236080ff)
 
 
+The login page serves as the entry point for authorized users to access the system securely.
+
 ![Screenshot (24)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/9e4a3d05-86f0-4a3e-a6d0-5a6603210221)
 
 
+
+Explore available destinations! This screenshot showcases the destinations accessible via the bus service, providing users with information on routes and schedules.
+
 ![Screenshot (23)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/fd2a378e-4e53-4365-b2f4-a527f577774a)
+
 
 
 ![Screenshot (22)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/e1b8bf7d-0934-4976-bea1-af97c6914e39)
 
 
+
+Need assistance? Contact our support team! This screenshot provides users with contact information, including email addresses and phone numbers, to reach out for help or inquiries.
 ![Screenshot (21)](https://github.com/samleti-balaji/Bus-Pass-Management-System/assets/117742347/b58613b8-0e6b-494e-9089-1bc8c8528f69)
 
 
